@@ -1,0 +1,32 @@
+[      
+         {  
+            "server":"INFODES",
+            "ip":"150.23.1.12",
+            "user":"TN6EAM",
+            "password":"CHETOS10"
+         },
+         {  
+            "server":"INFODE1",
+            "ip":"150.23.1.12",
+            "user":"TN6EAM",
+            "password":"CHETOS10"
+         }
+]
+
+INFOPRE.SERVER = 150.23.1.37
+INFOPRE.USER = TN6EAM
+INFOPRE.PASSWORD = CHETOS9a
+
+INFOPR1.SERVER = 150.23.1.37
+INFOPR1.USER = TN6EAM
+INFOPR1.PASSWORD = CHETOS9a
+
+INFOPRO.SERVER = 150.23.1.39
+INFOPRO.USER = TN6EAM
+INFOPRO.PASSWORD = CHETOS10
+
+BACKPRO = 150.23.1.13
+
+
+
+
